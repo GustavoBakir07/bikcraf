@@ -1,0 +1,15 @@
+.termo {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+.termo h2 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.termo p {
+  max-width: 75ch;
+  margin-bottom: 24px;
+}
+.termo p + h2 {
+  margin-top: 40px;
+}
